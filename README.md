@@ -6,6 +6,6 @@
 
 ## I like writing code
 
-I am a software devleper with a passion for clean code! I love writing loops, learning new frameworks and technologies, and playing Minecraft. When I'm away from my computer I spend my time gardening👨🏻‍🌾, taking care of my cats🐈, lizard🦎, and tortoise🐢, and going to the gym🏋! I'm on a personal journey to train my body and mind in order to be the best developer, coworker, friend, gardener, and cat dad that I can be.
+I am a software devleper with a passion for clean code! I love writing loops, learning new technologies, and playing Minecraft. When I'm away from my computer I spend my time gardening👨🏻‍🌾, taking care of my cats🐈, lizard🦎, and tortoise🐢, and going to the gym🏋! I'm on a journey to be the best developer, coworker, friend, gardener, and cat dad that I can be.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattjkatz&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
